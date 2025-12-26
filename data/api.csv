@@ -1,0 +1,4 @@
+timestamp,endpoint,method,status_code,response_time
+2023-10-10T10:00:00,/api/v1/login,POST,200,120ms
+2023-10-10T10:00:05,/api/v1/data,GET,403,45ms
+2023-10-10T10:01:00,/admin/settings,POST,401,30ms
